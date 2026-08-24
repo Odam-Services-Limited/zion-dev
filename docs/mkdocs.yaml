@@ -1,0 +1,12 @@
+site_name: 'zion-dev'
+site_description: 'Main documentation for Dmatrix zion-dev'
+repo_url: https://github.com/davismatrix/zion-dev
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
+nav:
+  - Overview:
+      - About APP: 'docs/index.md'
