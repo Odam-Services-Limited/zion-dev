@@ -4,7 +4,7 @@ metadata:
   name: zion-dev
   description: T4 download app.
   annotations:
-    github.com/project-slug: davismatrix/zion-dev
+    github.com/project-slug: Odam-Services-Limited/zion-dev
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
